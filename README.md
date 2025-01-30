@@ -9,7 +9,7 @@ A Retrieval-Augmented Generation (RAG) model that leverages **LangChain**, **Pin
 - **LangChain Framework**: For efficient query management and chaining tasks.
 - **Pinecone Database**: High-performance vector database to store and retrieve embeddings.
 - **OpenAI Embeddings**: Powering semantic search and relevance ranking for your queries.
-- **USA Constitution Dataset**: Utilized from [Hugging Face](c4lliope/us-congress) to train the model and provide meaningful responses.
+- **USA Constitution Dataset**: Utilized from [Hugging Face Dataset](c4lliope/us-congress) to train the model and provide meaningful responses.
 
 ---
 
@@ -62,7 +62,7 @@ A Retrieval-Augmented Generation (RAG) model that leverages **LangChain**, **Pin
 
 ## 🧑‍💻 Author
 
-- **Your Name**: AI Enthusiast | LangChain & OpenAI Developer | Passionate about RAG solutions.
+- **Muhammad Mubashir**: AI Enthusiast | LangChain & OpenAI Developer | Passionate about RAG solutions.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mianmubashir105/) or [Email](mianmubashir105@gmail.com).
 
 
