@@ -1,11 +1,3 @@
-!pip install langchain openai pinecone-client fastapi uvicorn python-dotenv
-!pip install langchain-community
-!pip install --upgrade pinecone-client
-!pip install huggingface_hub
-!pip install datasets
-!pip install tiktoken
-
-
 import os
 import requests
 import streamlit as st
